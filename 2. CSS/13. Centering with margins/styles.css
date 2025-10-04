@@ -1,0 +1,26 @@
+/*
+Challenge:
+Select the img tag and set the width 
+of the Google logo to be 300px.
+*/
+
+.main {
+  display: block;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin: 0 auto; */
+}
+
+.logo-img {
+  margin-top: 100px;
+  display: block;
+  width: 300px;
+  /* margin-bottom: 24px; */
+}
+
+.search-input {
+  display: block;
+  width: 400px;
+  margin-top: 24px;
+}
